@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> # -*- coding: utf-8 -*-
+> import sys
+> lyrics = """
+> يا قمر الليل الذي يضيء دربي
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
